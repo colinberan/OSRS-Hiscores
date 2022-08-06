@@ -1,6 +1,8 @@
 # OSRS-Hiscores
 
 Python exploration of Old School Runescape Hiscores data gathered on July 21st, 2022. 
+Kaggle Notebook: https://www.kaggle.com/colinberan/old-school-runescape-hiscores-exploration
+
 Two small projects here:
 
 1. Boss kill count tracking for one particular username. When executing the code, the user is prompted for a case-sensitive OSRS username and then they are given a table of information including all bosses and that user's kill count for that boss (or a "Not listed on Hiscores." response if the kill count is too low to be registered).
